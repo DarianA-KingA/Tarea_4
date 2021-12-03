@@ -1,0 +1,7 @@
+instrucciones:
+-ejercutar el documento schema database para generar la base de datos
+-ejecutar proyecto
+-debe configurar el protocolo TCP/IP de SQLServer para que funcionen algunas librerias, para mas inforcion, buscarlo en internet.
+configuradcion:
+java 8
+SQLServer
